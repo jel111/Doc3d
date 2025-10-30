@@ -1,0 +1,27 @@
+{
+  "id": "tutorials/beginner-template",
+  "title": "Your First 3D Print: A Beginner's Guide",
+  "description": "Welcome to the world of 3D printing! Whether you’re a hobbyist, a tinkerer, or just curious, this guide will walk you through the essentials of getting your first 3D print off the ground. No jargon overload—just the basics to get you started.",
+  "source": "@site/docs/tutorials/beginner-template.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/begintemp",
+  "permalink": "/docs/tutorials/begintemp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "begintemp"
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/docs/category/tutorials"
+  },
+  "next": {
+    "title": "Creality Sonic Pad",
+    "permalink": "/docs/tutorials/sonic-pad"
+  }
+}

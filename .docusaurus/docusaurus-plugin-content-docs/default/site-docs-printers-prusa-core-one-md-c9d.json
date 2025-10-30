@@ -1,0 +1,26 @@
+{
+  "id": "printers/prusa-core-one",
+  "title": "Prusa Core One",
+  "description": "Welcome to the Prusa Core One intro page! This is Prusa’s long-awaited leap into the CoreXY game, and let’s just say… it was worth the wait.",
+  "source": "@site/docs/printers/prusa-core-one.md",
+  "sourceDirName": "printers",
+  "slug": "/printers/prusa-core-one",
+  "permalink": "/docs/printers/prusa-core-one",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "3d Printers",
+    "permalink": "/docs/category/3d-printers"
+  },
+  "next": {
+    "title": "Elegoo Centauri Carbon",
+    "permalink": "/docs/printers/elagoo-centauri-carbon"
+  }
+}

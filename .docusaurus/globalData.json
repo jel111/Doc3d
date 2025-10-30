@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "filaments/filaments",
+              "path": "/docs/filaments/filaments",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "printers/bambu-labs--p1s",
+              "path": "/docs/printers/bambu-labs--p1s",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "printers/creality-k2",
+              "path": "/docs/printers/creality-k2",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "printers/elagoo-centauri-carbon",
+              "path": "/docs/printers/elagoo-centauri-carbon",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "printers/flsun-s1-pro",
+              "path": "/docs/printers/flsun-s1-pro",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "printers/prusa-core-one",
+              "path": "/docs/printers/prusa-core-one",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "printers/prusa-xl",
+              "path": "/docs/printers/prusa-xl",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "tutorials/beginner-template",
+              "path": "/docs/tutorials/begintemp",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "tutorials/sonic-pad",
+              "path": "/docs/tutorials/sonic-pad",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "/category/3d-printers",
+              "path": "/docs/category/3d-printers",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "/category/filaments",
+              "path": "/docs/category/filaments",
+              "sidebar": "contentSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/docs/category/tutorials",
+              "sidebar": "contentSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "contentSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

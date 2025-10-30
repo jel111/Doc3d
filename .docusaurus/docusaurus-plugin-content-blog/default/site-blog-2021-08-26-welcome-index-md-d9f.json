@@ -1,0 +1,75 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+  "source": "@site/blog/2021-08-26-welcome/index.md",
+  "title": "Welcome to My Maker Blog: DIY, Learning, and a Dash of AI",
+  "description": "A warm welcome to the Maker community—join me for 3D printing tips, woodworking, metalworking, CNC projects, and thoughts on AI from a DIY perspective.",
+  "date": "2025-03-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Maker",
+      "permalink": "/blog/tags/maker",
+      "description": "Maker tag description"
+    },
+    {
+      "inline": false,
+      "label": "DIY",
+      "permalink": "/blog/tags/diy",
+      "description": "DIY tag description"
+    },
+    {
+      "inline": false,
+      "label": "3D Printing",
+      "permalink": "/blog/tags/3d-printing",
+      "description": "3D Printing tag description"
+    },
+    {
+      "inline": false,
+      "label": "Woodworking",
+      "permalink": "/blog/tags/woodworking",
+      "description": "Woodworking tag description"
+    },
+    {
+      "inline": false,
+      "label": "Metalworking",
+      "permalink": "/blog/tags/metalworking",
+      "description": "Metalworking tag description"
+    },
+    {
+      "inline": false,
+      "label": "CNC",
+      "permalink": "/blog/tags/cnc",
+      "description": "CNC tag description"
+    },
+    {
+      "inline": false,
+      "label": "AI",
+      "permalink": "/blog/tags/ai",
+      "description": "AI tag description"
+    }
+  ],
+  "readingTime": 4.125,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome to My Maker Blog: DIY, Learning, and a Dash of AI",
+    "description": "A warm welcome to the Maker community—join me for 3D printing tips, woodworking, metalworking, CNC projects, and thoughts on AI from a DIY perspective.",
+    "date": "2025-03-18T00:00:00.000Z",
+    "tags": [
+      "maker",
+      "diy",
+      "3d-printing",
+      "woodworking",
+      "metalworking",
+      "cnc",
+      "ai"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "3D Chameleon",
+    "permalink": "/blog/3d-chameleon"
+  }
+}

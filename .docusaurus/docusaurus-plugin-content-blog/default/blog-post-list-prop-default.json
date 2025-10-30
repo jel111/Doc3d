@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome to My Maker Blog: DIY, Learning, and a Dash of AI",
+      "permalink": "/blog/welcome",
+      "unlisted": false,
+      "date": "2025-03-18T00:00:00.000Z"
+    },
+    {
+      "title": "3D Chameleon",
+      "permalink": "/blog/3d-chameleon",
+      "unlisted": false,
+      "date": "2024-05-28T00:00:00.000Z"
+    }
+  ]
+}

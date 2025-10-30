@@ -1,0 +1,26 @@
+{
+  "id": "printers/flsun-s1-pro",
+  "title": "FLSUN S1 Pro",
+  "description": "Welcome to the FLSUN S1 Pro intro page! The S1 Pro is the flagship model from FLSUN 3D, known for pushing the boundaries of speed, precision, and material innovation in 3D printing. If you’ve never heard of them, it’s because they’re that exclusive. 👀",
+  "source": "@site/docs/printers/flsun-s1-pro.md",
+  "sourceDirName": "printers",
+  "slug": "/printers/flsun-s1-pro",
+  "permalink": "/docs/printers/flsun-s1-pro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "Creality K2",
+    "permalink": "/docs/printers/creality-k2"
+  },
+  "next": {
+    "title": "Prusa XL",
+    "permalink": "/docs/printers/prusa-xl"
+  }
+}

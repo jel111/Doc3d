@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_3_d=self.webpackChunkdoc_3_d||[]).push([[9067],{9187:e=>{e.exports=JSON.parse('{"tags":[{"label":"maker","permalink":"/docs/tags/maker","count":1},{"label":"3d-printing","permalink":"/docs/tags/3-d-printing","count":1}]}')}}]);

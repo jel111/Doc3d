@@ -1,0 +1,26 @@
+{
+  "id": "printers/creality-k2",
+  "title": "Creality K2",
+  "description": "Welcome to the Creality K2 intro page! Creality’s pushing hard into the CoreXY high-speed game with this beast of a printer. If you’re after raw speed, big volume, and easy setup, this machine is worth a look.",
+  "source": "@site/docs/printers/creality-k2.md",
+  "sourceDirName": "printers",
+  "slug": "/printers/creality-k2",
+  "permalink": "/docs/printers/creality-k2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "Elegoo Centauri Carbon",
+    "permalink": "/docs/printers/elagoo-centauri-carbon"
+  },
+  "next": {
+    "title": "FLSUN S1 Pro",
+    "permalink": "/docs/printers/flsun-s1-pro"
+  }
+}

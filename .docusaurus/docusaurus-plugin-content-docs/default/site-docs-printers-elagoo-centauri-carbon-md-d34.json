@@ -1,0 +1,26 @@
+{
+  "id": "printers/elagoo-centauri-carbon",
+  "title": "Elegoo Centauri Carbon",
+  "description": "Welcome to the Elegoo Centauri Carbon intro page! Elegoo’s no stranger to resin printing domination, but this machine? This is their CoreXY debut, and they are not messing around.",
+  "source": "@site/docs/printers/elagoo-centauri-carbon.md",
+  "sourceDirName": "printers",
+  "slug": "/printers/elagoo-centauri-carbon",
+  "permalink": "/docs/printers/elagoo-centauri-carbon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "Prusa Core One",
+    "permalink": "/docs/printers/prusa-core-one"
+  },
+  "next": {
+    "title": "Creality K2",
+    "permalink": "/docs/printers/creality-k2"
+  }
+}

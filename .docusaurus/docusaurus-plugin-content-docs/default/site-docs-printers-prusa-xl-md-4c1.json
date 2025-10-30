@@ -1,0 +1,26 @@
+{
+  "id": "printers/prusa-xl",
+  "title": "Prusa XL",
+  "description": "Welcome to the Prusa XL intro page!",
+  "source": "@site/docs/printers/prusa-xl.md",
+  "sourceDirName": "printers",
+  "slug": "/printers/prusa-xl",
+  "permalink": "/docs/printers/prusa-xl",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "FLSUN S1 Pro",
+    "permalink": "/docs/printers/flsun-s1-pro"
+  },
+  "next": {
+    "title": "Bambu Labs P1S",
+    "permalink": "/docs/printers/bambu-labs--p1s"
+  }
+}

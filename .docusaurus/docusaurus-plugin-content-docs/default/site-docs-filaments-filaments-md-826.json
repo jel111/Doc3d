@@ -1,0 +1,43 @@
+{
+  "id": "filaments/filaments",
+  "title": "Welcome to Filaments",
+  "description": "A warm welcome to the Maker community—join me for favorite and new filaments.",
+  "source": "@site/docs/filaments/filaments.md",
+  "sourceDirName": "filaments",
+  "slug": "/filaments/filaments",
+  "permalink": "/docs/filaments/filaments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "maker",
+      "permalink": "/docs/tags/maker"
+    },
+    {
+      "inline": true,
+      "label": "3d-printing",
+      "permalink": "/docs/tags/3-d-printing"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "filaments",
+    "title": "Welcome to Filaments",
+    "description": "A warm welcome to the Maker community—join me for favorite and new filaments.",
+    "date": "2025-03-15T00:00:00.000Z",
+    "tags": [
+      "maker",
+      "3d-printing"
+    ]
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "Filaments",
+    "permalink": "/docs/category/filaments"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/docs/category/tutorials"
+  }
+}

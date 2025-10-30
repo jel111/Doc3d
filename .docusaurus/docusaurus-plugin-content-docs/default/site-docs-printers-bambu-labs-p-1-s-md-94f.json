@@ -1,0 +1,26 @@
+{
+  "id": "printers/bambu-labs--p1s",
+  "title": "Bambu Labs P1S",
+  "description": "Welcome to the Bambu Labs P1S introduction page! If you're new to this printer or just want to know what all the hype is about, you're in the right place. Let's dive in.",
+  "source": "@site/docs/printers/bambu-labs--p1s.md",
+  "sourceDirName": "printers",
+  "slug": "/printers/bambu-labs--p1s",
+  "permalink": "/docs/printers/bambu-labs--p1s",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "contentSidebar",
+  "previous": {
+    "title": "Prusa XL",
+    "permalink": "/docs/printers/prusa-xl"
+  },
+  "next": {
+    "title": "Filaments",
+    "permalink": "/docs/category/filaments"
+  }
+}

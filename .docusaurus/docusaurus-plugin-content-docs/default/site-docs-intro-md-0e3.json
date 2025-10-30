@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "3D Printing Help",
+  "description": "Welcome to your hub for mastering 3D printing! Whether you're a beginner or looking to refine your skills, these tutorials will guide you through every step in less than 5 minutes per lesson.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "contentSidebar",
+  "next": {
+    "title": "3d Printers",
+    "permalink": "/docs/category/3d-printers"
+  }
+}
