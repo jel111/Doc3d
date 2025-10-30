@@ -1,0 +1,28 @@
+/**
+ * Any CSS included here will be global. 
+ */
+
+/* Overriden defaults. */
+:root {
+  --ifm-color-primary: #1e88e5;      /* Base blue for light mode */
+  --ifm-color-primary-dark: #1b7ccc;  /* Darker for hover states */
+  --ifm-color-primary-darker: #1973bf; /* Even darker for depth */
+  --ifm-color-primary-darkest: #155e9c; /* Darkest for pressed states */
+  --ifm-color-primary-light: #3996e8; /* Lighter for subtle accents */
+  --ifm-color-primary-lighter: #4ca0eb; /* More light for gradients */
+  --ifm-color-primary-lightest: #70b3f0; /* Lightest for highlights */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* A lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #42a5f5;      /* Brighter blue for dark mode */
+  --ifm-color-primary-dark: #2b96f2;  /* Slightly darker */
+  --ifm-color-primary-darker: #1d8ce8; /* More depth */
+  --ifm-color-primary-darkest: #1a77c2; /* Darkest shade */
+  --ifm-color-primary-light: #5bb2f7; /* Lighter for contrast */
+  --ifm-color-primary-lighter: #70bcf9; /* Even lighter */
+  --ifm-color-primary-lightest: #96cefb; /* Lightest for accents */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

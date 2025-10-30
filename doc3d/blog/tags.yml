@@ -1,0 +1,40 @@
+maker:
+  label: Maker
+  permalink: /maker
+  description: Maker tag description
+
+diy:
+  label: DIY
+  permalink: /diy
+  description: DIY tag description
+
+3d-printing:
+  label: 3D Printing
+  permalink: /3d-printing
+  description: 3D Printing tag description
+
+woodworking:
+  label: Woodworking
+  permalink: /woodworking
+  description: Woodworking tag description
+
+metalworking:
+  label: Metalworking
+  permalink: /metalworking
+  description: Metalworking tag description
+
+cnc:
+  label: CNC
+  permalink: /cnc
+  description: CNC tag description
+
+ai:
+  label: AI
+  permalink: /ai
+  description: AI tag description
+
+3d-chameleon:
+  label: 3D Chameleon
+  permalink: /3d-chameleon
+  description: 3D Chameleon tag description
+
