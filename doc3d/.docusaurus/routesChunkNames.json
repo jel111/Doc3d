@@ -1,0 +1,122 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-7d3": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-742": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs/tags-fce": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---docs-tags-898-65c"
+  },
+  "/docs/tags/3-d-printing-804": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-3-d-printing-20-f-023"
+  },
+  "/docs/tags/maker-bac": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---docs-tags-maker-3-cf-669"
+  },
+  "/docs-b66": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/3d-printers-ec1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-3-d-printers-4-a-6-147"
+  },
+  "/docs/category/filaments-d06": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-filamentsc-11-c62"
+  },
+  "/docs/category/tutorials-1d8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-tutorials-2-fc-0e4"
+  },
+  "/docs/filaments/filaments-3a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-filaments-filaments-826-e20"
+  },
+  "/docs/intro-6e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/printers/bambu-labs--p1s-1db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-printers-bambu-labs-p-1-s-94-f-7c9"
+  },
+  "/docs/printers/creality-k2-de6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-printers-creality-k-2-b-69-270"
+  },
+  "/docs/printers/elagoo-centauri-carbon-144": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-printers-elagoo-centauri-carbond-34-392"
+  },
+  "/docs/printers/flsun-s1-pro-045": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-printers-flsun-s-1-pro-52-d-c76"
+  },
+  "/docs/printers/prusa-core-one-e0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-printers-prusa-core-onec-9-d-246"
+  },
+  "/docs/printers/prusa-xl-aae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-printers-prusa-xl-4-c-1-59d"
+  },
+  "/docs/tutorials/begintemp-951": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-begintemp-88-b-1e7"
+  },
+  "/docs/tutorials/sonic-pad-36e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-sonic-padbf-2-ef8"
+  }
+}

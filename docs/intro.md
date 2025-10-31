@@ -16,7 +16,7 @@ Or **jump right in** with our [Quick Start Guide](/docs/tutorials/beginner-templ
 
 - A **3D printer** (FDM or resin, depending on the tutorial):
   - Don’t have one yet? Check our [Printer Recommendations](#) (link TBD).
-- [Slicer software](https://www.slicer.org/) like Cura, PrusaSlicer, Bambu Studio, Lychee or Chitubox:
+- [Slicer software](https://www.xometry.com/resources/3d-printing/what-is-a-slicer-in-3d-printing/) like Cura, PrusaSlicer, Bambu Studio, Lychee or Chitubox:
   - Most are free and beginner-friendly—install one before starting.
 - **Filament** or **resin**:
   - PLA is great for beginners; we’ll cover material choices later.

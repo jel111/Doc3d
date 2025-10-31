@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-import CrealityK2Image from './images/crealityk2.webp';
+import CrealityK2Image from './images/crealityk2.png';
 
 # Creality K2
 <img src={CrealityK2Image} alt="Creality K2" style={{width: 200}} />
